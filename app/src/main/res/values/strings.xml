@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JNI Dynamic Register</string>
+    <string name="test_jni_dynamic_register">test jni dynamic register</string>
+    <string name="test_jni_call_java">test jni  call java</string>
+</resources>
